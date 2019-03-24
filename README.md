@@ -17,4 +17,4 @@ Primera entrega del curso de node tda adaptada al bonus de la segunda semana con
 
    Hay 4 cursos en total numerados del 0 al 3.
 
-2. Abrir el navegador en el localhost:3000 para evidenciar el bonus al momento de inscriirse al curso
+2. Abrir el navegador en el localhost:3000 para evidenciar el bonus al momento de inscrirse al curso
