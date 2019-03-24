@@ -1,0 +1,6 @@
+Curso: Unity3D
+Id: 3
+Duracion: 120 horas
+Costo: 700000
+Estudiante: Juan
+Cedula: 1234567
